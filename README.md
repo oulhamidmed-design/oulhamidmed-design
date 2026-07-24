@@ -42,9 +42,5 @@
 - 🌱 En apprentissage continu sur les librairies et outils du Machine Learning
 - 📫 N'hésite pas à me contacter pour échanger !
 
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="48%">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="48%">
-</div>
 
-<hr></hr>
+

@@ -3,14 +3,14 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-### Hi, I'm **Mohammed Oulhamid** 👋
+### Hi, je suis **Mohammed Oulhamid** 👋
 
-🎓 Studying **Bachelor in Data & Artificial Intelligence – Machine Learning** at **HETIC** (Paris)
-🎓 Hold a **DUT in Computer Engineering** — École Supérieure de Technologie, Meknès
-🔎 **Looking for a work-study program (alternance)** in Data, Artificial Intelligence and Machine Learning
-📍 Based in Paris, France
+🎓 Étudiant en **Bachelor Data & Intelligence Artificielle – Machine Learning** à **HETIC** (Paris)
+🎓 Titulaire d'un **DUT en Génie Informatique** — École Supérieure de Technologie, Meknès
+🔎 **En recherche d'alternance** en Data, Intelligence Artificielle et Machine Learning
+📍 Basé à Paris, France
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=oulhamidmed-design&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
@@ -33,33 +33,18 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```python
-# About me
 
-class About:
-    def __init__(self):
-        self.education = {
-            "Bachelor": "Data & Artificial Intelligence - Machine Learning (HETIC, Paris)",
-            "DUT": "Computer Engineering (ESTM, Meknes)"
-        }
-        self.looking_for = "Work-study program (alternance) in Data / AI / Machine Learning"
-        self.stack = {
-            "Languages": ["Python", "SQL"],
-            "Data & ML": ["Pandas", "NumPy", "scikit-learn", "TensorFlow", "PyTorch"],
-            "Databases": ["PostgreSQL", "SQLite"],
-            "Tools": ["Git", "Jupyter", "VSCode", "Linux"]
-        }
-```
 
-- 📚 Currently studying **Data & AI / Machine Learning** at HETIC
-- 💼 Open to a **work-study program (alternance)** in Data, AI or Machine Learning
-- 🌱 Continuously learning Machine Learning libraries and tools
-- 📫 Feel free to reach out!
+
+
+- 📚 Actuellement en formation **Data & IA / Machine Learning** à HETIC
+- 💼 Ouvert à une **alternance** en Data, IA ou Machine Learning
+- 🌱 En apprentissage continu sur les librairies et outils du Machine Learning
+- 📫 N'hésite pas à me contacter pour échanger !
 
 <div align="center">
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=nord_dark" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=nord_dark" width="48%">
-</a>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="48%">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="48%">
 </div>
 
 <hr></hr>
